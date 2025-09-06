@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-C# devoleper<br/>
-.NET enthusiast</br>
+Java devoleper<br/>
+JDK enthusiast</br>
 
 
 
